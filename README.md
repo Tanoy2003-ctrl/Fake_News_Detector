@@ -43,7 +43,7 @@ These datasets should have at least the following columns:
 
 2. **Run the Streamlit app:**
    ```bash
-   streamlit run streamlit_app.py
+   streamlit run run_app.py
    ```
 
 3. **Open your browser** and navigate to `http://localhost:8501`
